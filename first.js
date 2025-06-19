@@ -68,6 +68,7 @@ newbtn.addEventListener("click",() =>{
      });
      newbtn.style.display="none";
      msg.style.display="none";
+    turn=0;
 });
 
 rstbtn.addEventListener("click",() =>{
@@ -79,4 +80,5 @@ rstbtn.addEventListener("click",() =>{
      });
      newbtn.style.display="none";
      msg.style.display="none";
+    turn=0;
 });
